@@ -18,6 +18,7 @@ Create a Django website with five users. Two users are to be staff users (includ
 ### Step 8: Add some users according to the user.
 
 #OUTPUT
-![Screenshot 2023-10-25 105517](https://github.com/abdullahsharmila/ODD2023-WT-Ex-02-Admin/assets/145742459/24b82569-80bd-41a1-8a42-e0fe7a4cd0a5)
+!![image](https://github.com/abdullahsharmila/ODD2023-WT-Ex-02-Admin/assets/145742459/7f8329ff-e29d-4c08-9436-e16193bd7793)
+
 #RESULT The output is verified sucessfully
 
